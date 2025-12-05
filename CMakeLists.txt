@@ -4,7 +4,8 @@
 
 cmake_minimum_required(VERSION 3.22.1)
 
-set(VERSION "1.4.0")
+# set(VERSION "1.4.0")
+set(VERSION "2.1.1")
 
 project(mcap_builder LANGUAGES CXX VERSION ${VERSION})
 
